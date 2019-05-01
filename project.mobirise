@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-01_1721",
-    "currentPage": "index.html",
+    "currentPage": "bk_main.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,10 +36,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "bk_main.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "bk_main",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
